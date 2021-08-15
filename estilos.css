@@ -1,0 +1,13 @@
+
+.p-3{
+    padding: $spacer !important;
+}
+.m-3{
+    margin-top: $spacer !important;;
+}
+.iconos{
+    color: #834f23;
+    text-align: center;
+    cursor: pointer;
+    margin: 20px;
+}
